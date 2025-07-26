@@ -1,0 +1,55 @@
+[
+ {
+   "name": "Saudi Arabia",
+   "fullName": "Kingdom of Saudi Arabia",
+   "capital": "Ar-Riyad",
+   "currency": "Riyal",
+   "population": "33.26 Million (2023)",
+   "president": "Salman bin Abdulaziz Al Saud",
+   "continent": "Asia",
+   "contactCode": "+966",
+    "biography": "Saudi Arabia is an Arab country and the largest country in the Middle East. It is located specifically in the southwest of the Asian continent and constitutes the largest part of the Arabian Peninsula, with an area of approximately two million square kilometers."
+ },
+ {
+    "name": "Egypt",
+    "fullName": "Arab Republic of Egypt",
+    "capital": "Cairo",
+    "currency": "Pound",
+    "population": "114.5 Million (2023)",
+    "president": "Abdelfattah Elsisi",
+    "continent": "Africa",
+    "contactCode": "+20",
+    "biography": "Egypt is a transcontinental Arab country, straddling the northeastern corner of Africa and the southwestern corner of Asia via a land bridge formed by the Sinai Peninsula. Its population is estimated at more than 107 million, making it the thirteenth most populous country in the world and the most populous in the Arab world and the Middle East."
+ },
+ {
+    "name": "Kuwait",
+    "fullName": "State of Kuwait",
+    "capital": "Kuwait City",
+    "currency": "Kuwaiti Dinar (KWD)",
+    "population": "4.853 Million (2023)",
+    "president": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+    "continent": "Asia",
+    "contactCode": "+965",
+    "biography": "Kuwait is an Arab country located in the Middle East, in the southwest of the Asian continent, specifically in the northwestern corner of the Arabian Gulf, which borders it to the east, while it is bordered to the north and west by the Republic of Iraq and to the south by the Kingdom of Saudi Arabia."
+ },
+ {
+    "name": "",
+    "fullName": "",
+    "capital": "",
+    "currency": "",
+    "population": "",
+    "president": "",
+    "continent": "",
+    "contactCode": ""
+ },
+ {
+    "name": "",
+    "fullName": "",
+    "capital": "",
+    "currency": "",
+    "population": "",
+    "president": "",
+    "continent": "",
+    "contactCode": ""
+ }
+]
